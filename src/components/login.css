@@ -1,0 +1,6 @@
+.image {
+    background-image: url("../assets/logo/logo.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 90%
+}
